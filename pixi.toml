@@ -8,4 +8,5 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
-python = ">=3.13.2,<3.14"
+bat = ">=0.25.0,<0.26"
+rattler-build = ">=0.39.0,<0.40"
